@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@400;700&display=swap');
+*{box-sizing: border-box;}
+
+body{margin: 0;}
+header{width: 100%; background-image: url(img/M4\ -\ Desafío3_img-header.png); height: 500px;background-size: cover ;}
